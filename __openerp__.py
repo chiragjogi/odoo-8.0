@@ -28,7 +28,7 @@
     "category": "Purchase Management",
     "website": "http://www.merlintecsol.com",
     "data": [
-        "security/ir.model.access.csv",
+       # "security/ir.model.access.csv",
         "views/purchase_order_view.xml",
     ],
     "installable": True,
