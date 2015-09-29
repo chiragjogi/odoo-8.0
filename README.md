@@ -1,4 +1,4 @@
-# odoo-8.0-
+# odoo-8.0
 odoo 8.0 Modules
 Seperate taxes & its amount in purchase orders
 ============================
