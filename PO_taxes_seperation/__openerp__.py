@@ -17,13 +17,13 @@
 ##############################################################################
 
 {
-    "name": "seperate taxes & its amount in purchase orders",
+    "name": "separate taxes & its amount in purchase orders",
     "version": "1.0",
     "depends": [
         "sale",
         "account",
     ],
-    "author": "chirag jogi/Merlin Tecsol Pvt. Ltd.",
+    "author": "Chirag Jogi/Merlin TecSol Pvt. Ltd.",
             
     "category": "Purchase Management",
     "website": "http://www.merlintecsol.com",
